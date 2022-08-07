@@ -10,3 +10,8 @@ Important items
 
 References
 * [Vedio Tutorials](https://www.youtube.com/watch?v=dw2eNCzwBkk)
+
+Git Commands
+* [Git help](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+* git checkout -b iss53 # Short hand for creating a new branch and checkout
+* git commit -am 'added new Comments [issue 53]'
